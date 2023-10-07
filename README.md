@@ -1,5 +1,5 @@
 # pan-card-detection
-
+![](https://github.com/foduucom/pan-card-detection/blob/main/PAN-Card-Detection.jpg)
 ## Model Overview
 The PANCard-Detect model is a yolov8 object detection model trained to detect and locate PAN (Permanent Account Number) cards in images. It is built upon the ultralytics library and fine-tuned using a dataset of annotated PAN card images.
 
